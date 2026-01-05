@@ -1,0 +1,6 @@
+@FreeImageGenerator_HostAddress = http://localhost:5176
+
+GET {{FreeImageGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
